@@ -31,3 +31,23 @@ Audience: US EPA Water- water research, infrastructure finance, municipal utilit
 
 Dependent variable: Residential water use by city (logarithmic transformation)
 
+### Project Approach
+
+R libraries used:
+#load libraries\
+library(tidyr) #data organization\
+library(ggplot2) #data visualization\
+library(dplyr) #data cleaning\
+library(GGally) #statistics\
+library(janitor) #data cleaning\
+library(lubridate) #dates\
+library(stringr) #strings\
+library(naniar) #missingness\
+library(fixest) #fast estimation of linear models\
+
+#more data viz libraries\
+library(ggrepel)      #for smart label placement\
+library(scales)       #for nice axis formatting\
+library(sf)           #for maps \
+library(ggrepel)      #repel on maps\
+
