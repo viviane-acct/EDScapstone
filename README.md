@@ -1,4 +1,4 @@
-    # <b>Municipal Water Use Analysis Capstone Project</b>
+    #Municipal Water Use Analysis Capstone Project
 <i>Relationship between population growth and residential per capita water use in 126 U.S. cities</i>
 
 Author: Viviane Baji
