@@ -21,12 +21,14 @@ processed_data\
 raw_data\
 scripts
 
-<b>Project Overview:</b>
+### Project Overview
 
-Problem statement: Many US cities are growing rapidly which has water supply and infrastructure implications. \
-Relevance: Each city has a number of policy tools available to manage the increase in water demand but implementation might vary.\
-Audience: US EPA Water- water research, infrastructure finance, municipal utility leaders\
-Dependent variable: Residential water use by city (logarithmic transformation)\
+<b>Problem statement:</b> Many US cities are growing rapidly which has water supply and infrastructure implications. \
+<b>Relevance: </b> Each city has a number of policy tools available to manage the increase in water demand but implementation might vary.\
+<b>Audience: </b> US EPA Water- water research, infrastructure finance, municipal utility leaders\
+<b>Dependent variable:</b> Residential water use by city (logarithmic transformation)\
+
+I set out to understand what drives municipal water use trends. Using a municipal water use dataset for 126 cities from 2005-2017, I was able to explore water use and discover links between population growth and water use. I found that per capita water use is lower in growing U.S. cities while cities that are not growing use more water overall but have reduced it over time. There could be more conservation potential in older cities, whereas newer ones are more efficient. This has implications for understanding how water resources will be impacted by growth.
 
 
 ### Project Approach and R Libraries Used
