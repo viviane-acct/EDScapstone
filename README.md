@@ -14,14 +14,14 @@ Link to GitHub repository: [GitHub Repository](<https://github.com/viviane-acct/
 
 
 This repo will contain project contents for the EDS capstone. Folders are:
-archive
-metadata
-outputs
-processed_data
-raw_data
-scripts
+archive\
+metadata\
+outputs\
+processed_data\
+raw_data\
+scripts\
 
-Project Overview:
+<b>Project Overview:</b>
 
 Problem statement: Many US cities are growing rapidly which has water supply and infrastructure implications. 
 
