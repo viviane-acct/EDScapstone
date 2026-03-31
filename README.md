@@ -13,13 +13,13 @@ Environmental Research Questions:
 Link to GitHub repository: [GitHub Repository](<https://github.com/viviane-acct/EDScapstone>)
 
 
-This repo will contain project contents for the EDS capstone. Folders are:
+This repo will contain project contents for the EDS capstone. Folders are:\
 archive\
 metadata\
 outputs\
 processed_data\
 raw_data\
-scripts\
+scripts
 
 <b>Project Overview:</b>
 
