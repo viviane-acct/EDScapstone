@@ -25,11 +25,14 @@ scripts
 
 <b>Problem statement:</b> Many US cities are growing rapidly which has water supply and infrastructure implications. \
 <b>Relevance: </b> Each city has a number of policy tools available to manage the increase in water demand but implementation might vary.\
-<b>Audience: </b> US EPA Water- water research, infrastructure finance, municipal utility leaders\
+<b>Audience: </b> US EPA Water- water research, infrastructure finance, municipal utility leaders
+
+
 <b>Project Feasibility:</b> 
 - Minimum dataset: Municipal water use dataset
 - Risks: Not all major US cities are included in the dataset. Residential/Commercial breakdown is not available for all cities.
 - Feasibility statement: The project is feasible with accessible, free datasets; some preprocessing is needed, but outcome and predictors exist.
+
 <b>Data Stewardship:</b>
 - No Personally Identifying Information (PII). All public datasets.
 - Versioning with GitHub.
