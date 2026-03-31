@@ -24,7 +24,10 @@ scripts
 Project Overview:
 
 Problem statement: Many US cities are growing rapidly which has water supply and infrastructure implications. 
+
 Relevance: Each city has a number of policy tools available to manage the increase in water demand but implementation might vary.
+
 Audience: US EPA Water- water research, infrastructure finance, municipal utility leaders
+
 Dependent variable: Residential water use by city (logarithmic transformation)
 
