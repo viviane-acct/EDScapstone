@@ -67,6 +67,7 @@ Predictors:\
 Equation sketch:\
 feols(log(res_billed_gallons) ~ city_big_growth_percent | us_census_id,   \   
                data = muni_water_clean_analysis_rate)\
+               
 Libraries
 - library(fixest) #fast estimation of linear models
 - library(GGally) #statistics
