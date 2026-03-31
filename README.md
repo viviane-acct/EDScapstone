@@ -37,7 +37,7 @@ scripts
 Chinnasamy, C. V., Arabi, M., Sharvelle, S., Warziniack, T., Furth, C. D., & Dozier, A. (2021). Characterization of municipal water uses in the contiguous United States. Water Resources Research, 57, e2020WR028627. https://doi.org/10.1029/2020WR028627
 
 
-I set out to understand what drives municipal water use trends. Using a municipal water use dataset for 126 cities from 2005-2017, I was able to explore water use and discover links between population growth and water use. I found that per capita water use is lower in growing U.S. cities while cities that are not growing use more water overall but have reduced it over time. There could be more conservation potential in older cities, whereas newer ones are more efficient. This has implications for understanding how water resources will be impacted by growth.
+I set out to understand what drives municipal water use trends. Using a municipal water use dataset for 126 cities from 2005-2017, I was able to explore water use and discover links between population growth and water use using R libraries and analytical approaches. I found that per capita water use is lower in growing U.S. cities while cities that are not growing use more water overall but have reduced it over time. There could be more conservation potential in older cities, whereas newer ones are more efficient. This has implications for understanding how water resources will be impacted by growth.
 
 
 ### Project Approach and R Libraries Used
