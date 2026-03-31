@@ -23,34 +23,32 @@ scripts
 
 <b>Project Overview:</b>
 
-Problem statement: Many US cities are growing rapidly which has water supply and infrastructure implications. 
+Problem statement: Many US cities are growing rapidly which has water supply and infrastructure implications. \
+Relevance: Each city has a number of policy tools available to manage the increase in water demand but implementation might vary.\
+Audience: US EPA Water- water research, infrastructure finance, municipal utility leaders\
+Dependent variable: Residential water use by city (logarithmic transformation)\
 
-Relevance: Each city has a number of policy tools available to manage the increase in water demand but implementation might vary.
-
-Audience: US EPA Water- water research, infrastructure finance, municipal utility leaders
-
-Dependent variable: Residential water use by city (logarithmic transformation)
 
 ### Project Approach and R Libraries Used
 
 Data Cleaning:
-- library(tidyr) #data organization\
-- library(dplyr) #data cleaning\
-- library(janitor) #data cleaning\
-- library(lubridate) #dates\
-- library(stringr) #strings\
-- library(naniar) #missingness\
+- library(tidyr) #data organization
+- library(dplyr) #data cleaning
+- library(janitor) #data cleaning
+- library(lubridate) #dates
+- library(stringr) #strings
+- library(naniar) #missingness
   
 Data Exploration/Visualization
-- library(ggplot2) #data visualization\
+- library(ggplot2) #data visualization
 
 Mapping
-- library(ggrepel)      #for smart label placement\
-- library(scales)       #for nice axis formatting\
-- library(sf)           #for maps \
+- library(ggrepel)      #for smart label placement
+- library(scales)       #for nice axis formatting
+- library(sf)           #for maps 
 - library(ggrepel)      #repel on maps
 
 Analysis
-- library(fixest) #fast estimation of linear models\
+- library(fixest) #fast estimation of linear models
 - library(GGally) #statistics
 
