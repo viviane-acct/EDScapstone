@@ -33,7 +33,7 @@ Dependent variable: Residential water use by city (logarithmic transformation)
 
 ### Project Approach and R Libraries Used
 
-Data Cleaning:\
+Data Cleaning:
 - library(tidyr) #data organization\
 - library(dplyr) #data cleaning\
 - library(janitor) #data cleaning\
@@ -41,16 +41,16 @@ Data Cleaning:\
 - library(stringr) #strings\
 - library(naniar) #missingness\
   
-Data Exploration/Visualization\
-library(ggplot2) #data visualization\
+Data Exploration/Visualization
+- library(ggplot2) #data visualization\
 
-Mapping\
+Mapping
 - library(ggrepel)      #for smart label placement\
 - library(scales)       #for nice axis formatting\
 - library(sf)           #for maps \
 - library(ggrepel)      #repel on maps
 
-Analysis\
-library(fixest) #fast estimation of linear models\
-- library(GGally) #statistics\
+Analysis
+- library(fixest) #fast estimation of linear models\
+- library(GGally) #statistics
 
