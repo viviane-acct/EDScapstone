@@ -19,7 +19,7 @@ metadata\
 outputs\
 processed_data\
 raw_data\
-scripts
+scripts- see notebook here for full capstone project
 
 ### Project Overview
 
