@@ -41,6 +41,17 @@ Data Cleaning:
 - library(stringr) #strings
 - library(naniar) #missingness
   
+#### Variables & Hypotheses
+Dependent variable: log(residential_billed_gallons)\
+Predictors:\
+•	whether a city grew by 100,000 people in any 5-year period between 2010 and 2017 (1/0).\
+•	climate region (categorical)\
+Equation sketch:\
+feols(log(res_billed_gallons) ~ city_big_growth_percent | us_census_id,   \   
+               data = muni_water_clean_analysis_rate)\
+
+
+  
 Data Exploration/Visualization
 - library(ggplot2) #data visualization
 
